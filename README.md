@@ -27,5 +27,8 @@ install the mysql connector in your system:
 - after venv creation we run the command:
   - pip install **mysql-connector-python**
   - say every yes **Y** for accept the T&C.
-- after the installing of mysql_connector
--   
+ <h3>My code generates fake data using faker module. So, we need to download the faker module also.</h3>
+
+ after these activities, we need to going install the faker module:
+ - run the commands in terminal in your folder directory in venv:
+  - pip install faker 
