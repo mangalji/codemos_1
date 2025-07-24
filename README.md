@@ -15,7 +15,7 @@ Now Download the <strong><em>MySQL WorkBench</em></strong>  database in your sys
 
 After all of these:    
 
-install the mysql connector in your system:
+<b>install the mysql connector in your system:</b>
 - open the terminal
 - go to the folder where your <i>file</i> is located or which <i>folder</i> you created for this project.
 - now create the **virtual environment** in your folder:
@@ -29,6 +29,10 @@ install the mysql connector in your system:
   - say every yes **Y** for accept the T&C.
  <h3>My code generates fake data using faker module. So, we need to download the faker module also.</h3>
 
- after these activities, we need to going install the faker module:
+ <b>after these activities, we need to going install the faker module:</b>
  - run the commands in terminal in your folder directory in venv:
-  - pip install faker 
+  - pip install faker
+
+**if you did all of these action: write my code in the file.**
+
+
